@@ -103,3 +103,12 @@ padding:20px;
 }
 
 }
+
+.contact {
+    text-align: center;
+}
+
+.contact img {
+    display: block;
+    margin: 0 auto;
+}
